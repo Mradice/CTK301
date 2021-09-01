@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>assignment2</title>
+  </head>
+  <body>
+    <ul>
+    <li><a href="assignment 2 part 2">Page 2</a></li>
+    <li><a href="assignment 2 part 3">Page 3</a></li>
+    </ul>
+<h1>Creative Technologies Basic Information</h1>
+<p><b>116 Center for Visual Arts</b><br>
+<b>Phone:</b> (309) 438-2875<br>
+<b>Director:</b> Rose Marshack<br>
+<b>Degrees Offered: </b>B.A., B.S.</p>
+</body>
+</html>
