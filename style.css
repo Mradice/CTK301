@@ -1,0 +1,57 @@
+/*
+p {
+ color: #ff0000;
+background-color: #0000FF;
+}
+*/
+h1{
+  color: #FFFFFF;
+  background-color: #18b5b2;
+}
+
+a {
+ color: #ff0000;
+  text-decoration: none;
+}
+
+a:link {
+ color: #ff0000;
+}
+
+a:visited {
+ color: #0000ff;
+}
+
+a:active {
+ color: #00ffff;
+}
+
+a:hover {
+ color: #0000FF;
+ text-decoration: underline;
+}
+
+.spanstyle {
+  color: #00ff00;
+}
+
+#divexample{
+  color: #0000FF;
+  background-color: #FFFF00;
+}
+
+
+#specialid {
+  color: #00FF00;
+  background-color: #000000;
+}
+
+.specialp{
+  color: #00FF00;
+  background-color: #FFFFFF;
+}
+
+footer {
+  color: #ffffff;
+  background-color: #ff0000;
+}
