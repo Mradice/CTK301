@@ -1,0 +1,65 @@
+#specialid{
+  color: #00ffff;
+  background-color: #ff00ff;
+}
+
+#specialid2{
+  color: #00ffff;
+  background-color: #ff00ff;
+}
+
+#specialid3{
+  color: #00ffff;
+  background-color: #ff00ff;
+}
+
+#div1{
+  background-color: #f0fff0;
+}
+
+#div2{
+  background-color: #f0fff0;
+}
+
+#div3{
+  background-color: #f0fff0;
+}
+
+.class1{
+  color: #008080;
+}
+
+.class2{
+  color: #008080;
+}
+
+.class3{
+  color: #008080;
+}
+
+.special1{
+  color: #8b008b;
+  background-color: #008b8b;
+}
+
+.special2{
+  color: #8b008b;
+  background-color: #008b8b;
+}
+
+.special3{
+  color: #8b008b;
+  background-color: #008b8b;
+}
+
+a {
+ color: #ff0000;
+}
+
+a:hover {
+ color: #ffff00;
+}
+
+a:visited {
+ color: #006400;
+}
