@@ -1,0 +1,49 @@
+#color1 {
+  background-color: #80b3ff;
+}
+
+#color2 {
+  color: #ffffff;
+}
+
+#color3 {
+  color: #0000ff;
+}
+
+#color4 {
+  color: #ff9900;
+}
+
+#color5 {
+  background-color: #ffff00;
+}
+
+#color6 {
+  color: #ff0000;
+}
+
+#color7 {
+  color:#ffff00;
+  background-color: #004d00;
+
+}
+
+#color8 {
+background-color: #4dff4d;
+}
+
+#color9 {
+  color: #990099
+}
+
+#color10 {
+  color: #ff9900;
+}
+
+a:link {
+ color: #009900;
+}
+
+a:hover {
+ color: #ff0000;
+}
