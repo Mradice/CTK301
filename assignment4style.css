@@ -1,0 +1,62 @@
+#customtext{
+  font-family: sans-serif;
+}
+
+#customtext2{
+  font-family: sans-serif;
+}
+
+#customtext3{
+  font-family: sans-serif;
+}
+
+body {
+
+background-image: url(image10.jpeg);
+}
+
+#textcenter {
+text-align: center;
+}
+
+#textcenter2 {
+text-align: center;
+}
+
+#textjustify {
+text-align: justify;
+}
+
+#textjustify2 {
+text-align: justify;
+}
+
+h1{
+  color: #ff9900;
+font-style: italic;
+font-weight: normal;
+}
+
+h2{
+  color: #ff9900;
+font-style: italic;
+font-weight: normal;
+}
+
+h3{
+  color: #ff9900;
+font-style: italic;
+font-weight: normal;
+}
+
+h4{
+  color: #ff9900;
+font-style: italic;
+font-weight: normal;
+}
+
+#imgbox {
+border: 10px solid #000000;
+padding:5px 5px 5px 5px;
+background-color: #ffffff;
+}
