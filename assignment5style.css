@@ -1,0 +1,56 @@
+#soul {
+font-family: Helvetica,Arial;
+color: #ffffff;
+width: 200px;
+margin: 0px 0px 0px 400px
+  }
+body {
+
+background-image: url(Soul.png);
+background-repeat: no-repeat;
+background-position: top left;
+}
+
+.customtex {
+  font-family: Helvetica, sans-serif;
+}
+h1 {
+  font-family: impact;
+  font-size: 135px;
+  color: #0099ff;
+  position: absolute;
+  margin: 130px 150px 150px 180px;
+  font-weight: bold;
+}
+
+#orange {
+  color: #ff9900;
+}
+
+nav {
+  font-family: Helvetica,Arial;
+  color: #0099ff;
+    margin: 800px 0px 10px 0px;
+    width: 625px;
+    text-align: center;
+}
+
+#disney {
+  font-size: 10px;
+}
+
+a {
+  font-family: Helvetica,Arial;
+  color: #0099ff;
+  font-weight: bold;
+  margin: 0px 0px 10px 200px;
+  text-decoration: none;
+}
+a:hover {
+ color: #ff9900;
+ text-decoration: underline;
+}
+
+#bottom {
+  margin: 0px 0px 0px 220px;
+}
