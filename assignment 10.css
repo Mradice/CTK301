@@ -1,0 +1,107 @@
+body {
+  background-color: #2d302e;
+}
+
+#wrapper {
+  margin: 1em auto;
+  width: 1200px;
+
+  background-color: #2d302e;
+  padding: 1em;
+}
+
+
+
+
+nav{
+  padding: 16px;
+  grid-column: span 12
+}
+
+nav ul{
+list-style-type: none;
+background-color: blue;
+border-radius: 50px;
+}
+
+nav li{
+  display: inline-block;
+  width: 350px;
+  text-align: center;
+}
+
+nav li a{
+  display: block;
+  padding: 1em;
+  color: white;
+  text-decoration: none;
+}
+nav li a:hover{
+  color: #00260d;
+  text-decoration: underline;
+}
+
+header{
+
+  color: white;
+  grid-column: span 12;
+  font-size: 30px;
+  text-align: center;
+}
+
+#img1{
+  padding: 20px;
+}
+
+#pics{
+  text-align: center;
+
+}
+
+#img2{
+padding: 10px;
+border-radius: 30px;
+}
+
+#img3{
+padding: 10px;
+border-radius: 30px;
+}
+
+#img4{
+padding: 10px;
+border-radius: 30px;
+}
+
+#img5{
+padding: 10px;
+border-radius: 30px;
+}
+
+footer{
+  padding: 16px;
+  grid-column: span 12
+}
+
+footer ul{
+  list-style-type: none;
+  background-color: blue;
+  border-radius: 50px;
+}
+
+footer li{
+  display: inline-block;
+  width: 350px;
+  text-align: center;
+}
+
+footer li a{
+  display: block;
+  color: white;
+  text-decoration: none;
+}
+
+footer li a:hover{
+  color: #00260d;
+  text-decoration: underline;
+}
