@@ -2,16 +2,24 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title></title>
+	<title>my Portfolio</title>
+
+<script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@4.0/dist/fancybox.umd.js"></script>
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui/dist/fancybox.css"/>
+
 	<link href="assignment 10.css" rel="stylesheet" type="text/css">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Zen+Tokyo+Zoo&display=swap" rel="stylesheet">
 </head>
 <body>
 	<div id="wrapper">
 
     <nav>
     	<ul>
-      	<li><a href="assignment7.html">Home</a></li>
-      	<li><a href="aboutme.html">About Me</a></li>
+      	<li><a href="assignment10 copy.html">Home</a></li>
+      	<li><a href="aboutme copy.html">About Me</a></li>
       	<li><a href="work copy.html">Work</a></li>
     	</ul>
     </nav>
@@ -20,10 +28,13 @@
   Michael's Portfolio
 </header>
 
-<img id="img1" src="slide copy.png" alt="slide show"
-height="400px"
-width="1150px"
-/>
+<div id="myCarousel" class="carousel">
+	<div class="carousel__slide"><img src="self.jpeg" height="500px" width="630px"></div>
+	<div class="carousel__slide"><img src="mywork.jpeg" height="500px" width="630px"></div>
+	<div class="carousel__slide"><img src="depth.jpeg" height="500px" width="650px"></div>
+</div>
+
+
 
 <div id="pics">
 <a href="work copy.html"><img id="img2" src="realsb1 copy.jpeg" alt="sketchbook"
@@ -47,8 +58,18 @@ width="500px"></a>
 
 <footer>
   <ul>
-    <li><a href="assignment7.html">Home</a></li>
-    <li><a href="aboutme.html">About Me</a></li>
-    <li><a href="work.html">Work</a></li>
+    <li><a href="assignment10 copy.html">Home</a></li>
+    <li><a href="aboutme copy.html">About Me</a></li>
+    <li><a href="work copy.html">Work</a></li>
   </ul>
+
+
+	<script>
+    const myCarousel = new Carousel(document.querySelector("#myCarousel"), {
+
+    });
+  </script>
+
 </footer>
+</body>
+</html>
