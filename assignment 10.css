@@ -126,10 +126,15 @@ p{
   font-size: 20px;
 }
 .p6{
-  padding: 20px 0 350px 450px;
+  padding: 20px 0 280px 450px;
   font-size: 20px;
 }
 .p7{
+  font-size: 20px;
+}
+
+.p8{
+  padding: 20px 0 350px 450px;
   font-size: 20px;
 }
 
