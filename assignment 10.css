@@ -10,11 +10,6 @@ body {
   padding: 1em;
 }
 
-header{
-  font-family: 'Zen Tokyo Zoo', cursive;
-}
-
-
 
 .carousel {
   color: #fff;
@@ -57,7 +52,7 @@ border-radius: 50px;
 
 nav li{
   display: inline-block;
-  width: 350px;
+  width: 525px;
   text-align: center;
 }
 
@@ -81,17 +76,16 @@ header{
   text-align: center;
 }
 
+h2{
+  color: white;
+  padding: 25px;
+  font-size: 20px;
+  text-align: center;
+}
 
 #mepic{
   float: left;
   border-radius: 30px;
-}
-.abtme{
-
-}
-
-.p1{
-  padding: 0 0 300px 20px;
 }
 
 
@@ -105,115 +99,85 @@ p{
   color: white;
 }
 
-.okay{
+.sp{
   padding: 30px 0 300px 450px;
   font-size: 20px;
 }
-.p2{
+.depth2{
+  padding: 20px 0 300px 525px;
+  font-size: 20px;
+}
+.abs3{
   padding: 20px 0 300px 450px;
   font-size: 20px;
 }
-.p3{
+.pink4{
   padding: 20px 0 300px 450px;
   font-size: 20px;
 }
-.p4{
+.skull5{
   padding: 20px 0 300px 450px;
   font-size: 20px;
 }
-.p5{
-  padding: 20px 0 390px 450px;
-  font-size: 20px;
-}
-.p6{
-  padding: 20px 0 280px 450px;
-  font-size: 20px;
-}
-.p7{
+.arc6{
+  padding: 20px 0 280px 475px;
   font-size: 20px;
 }
 
-.p8{
-  padding: 20px 0 350px 450px;
+.com2{
+  padding: 20px 0 280px 475px;
   font-size: 20px;
 }
 
-#img2{
-  padding: 10px;
-  border-radius: 30px;
-}
 
-#img3{
-  padding: 10px;
-  border-radius: 30px;
-
-}
-
-#img4{
-  padding: 10px;
-  border-radius: 30px;
-}
-
-#img5{
-  padding: 10px;
-  border-radius: 30px;
-}
-
-
-#img20{
-padding: 10px;
-border-radius: 30px;
+#pink{
+padding: 20px;
+border-radius: 25px;
 float: left;
 }
 
-#img30{
-padding: 10px;
-border-radius: 30px;
+#depth{
+padding: 20,20,100,20px;
+border-radius: 25px;
 float: left;
 }
 
-#img40{
-padding: 10px;
-border-radius: 30px;
+#arc{
+padding: 40 20 40 20px;
+border-radius: 15px;
 float: left;
 }
 
-#img50{
-padding: 10px;
-border-radius: 30px;
+#skull{
+padding: 20px;
+border-radius: 25px;
 float: left;
 }
 
-#img60{
-padding: 10px;
-border-radius: 30px;
-}
-
-#img70{
-padding: 10px;
-border-radius: 30px;
-}
-
-#img80{
-padding: 10px;
-border-radius: 30px;
-}
-
-#img90{
-padding: 10px;
-border-radius: 30px;
-}
-
-#img10{
-padding: 10px;
-border-radius: 30px;
+#abs{
+padding: 20px;
+border-radius: 25px;
 float: left;
 }
 
-#img11{
-padding: 10px;
-border-radius: 30px;
+#selfport{
+padding: 20px;
+border-radius: 25px;
 float: left;
+}
+
+#com{
+padding: 20px;
+border-radius: 25px;
+float: left;
+}
+
+#pics7{
+  padding: 50px;
+}
+
+#pics9{
+  padding: 80px;
 }
 
 
@@ -230,7 +194,7 @@ footer ul{
 
 footer li{
   display: inline-block;
-  width: 350px;
+  width: 550px;
   text-align: center;
 }
 
@@ -254,7 +218,31 @@ display: inline-block;
 }
 
 .p1{
-  padding: 20px 0 350px 400px;
+  padding: 60px 50px 15px 50px;
   font-size: 20px;
+}
+.p02{
+  font-size: 20px;
+  padding: 0 50px 0 50px;
+}
+.p03{
+  font-size: 20px;
+}
+.p03 a{
+  color: #154899;
+  font-size: 20px;
+  padding: 0 50px 0 50px;
+}
+.p03 a:hover{
+  color: #9fa6c7;
+}
 
+
+.p04 a{
+  color: #154899;
+  font-size: 20px;
+  padding: 0 50px 0 50px;
+}
+.p04 a:hover{
+  color: #9fa6c7;
 }
