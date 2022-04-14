@@ -76,12 +76,7 @@ header{
   text-align: center;
 }
 
-h2{
-  color: white;
-  padding: 25px;
-  font-size: 20px;
-  text-align: center;
-}
+
 
 #mepic{
   float: left;
@@ -131,55 +126,116 @@ p{
 
 
 #pink{
-padding: 20px;
+
 border-radius: 25px;
 float: left;
+ transition:transform 0.25s ease;
+}
+
+#pink:hover{
+  -webkit-transform:scale(1.5);
+ transform:scale(1.5);
 }
 
 #depth{
-padding: 20,20,100,20px;
+
 border-radius: 25px;
 float: left;
+transition:transform 0.25s ease;
+}
+
+#depth:hover{
+  -webkit-transform:scale(1.5);
+ transform:scale(1.5);
 }
 
 #arc{
-padding: 40 20 40 20px;
+
 border-radius: 15px;
 float: left;
+transition:transform 0.25s ease;
+}
+
+#arc:hover{
+  -webkit-transform:scale(1.5);
+ transform:scale(1.5);
 }
 
 #skull{
-padding: 20px;
+
 border-radius: 25px;
 float: left;
+transition:transform 0.25s ease;
+}
+
+#skull:hover{
+  -webkit-transform:scale(1.5);
+ transform:scale(1.5);
 }
 
 #abs{
-padding: 20px;
+
 border-radius: 25px;
 float: left;
+transition:transform 0.25s ease;
+}
+
+#abs:hover{
+  -webkit-transform:scale(1.5);
+ transform:scale(1.5);
 }
 
 #selfport{
-padding: 20px;
+
 border-radius: 25px;
 float: left;
+transition:transform 0.25s ease;
+}
+
+#selfport:hover{
+  -webkit-transform:scale(1.5);
+ transform:scale(1.5);
 }
 
 #com{
-padding: 20px;
+
 border-radius: 25px;
 float: left;
+transition:transform 0.25s ease;
+}
+
+#com:hover{
+  -webkit-transform:scale(1.5);
+ transform:scale(1.5);
+}
+
+#pics5{
+  padding: 60px 10px 10px 40px;
+}
+
+#pics3{
+  padding: 60px;
 }
 
 #pics7{
-  padding: 50px;
+  padding: 60px 60px 80px 60px;
+}
+
+#pics6{
+  padding: 60px;
+}
+
+#pics4{
+  padding: 60px;
 }
 
 #pics9{
-  padding: 80px;
+  padding: 30px 60px 60px 60px;
 }
 
+#pics2{
+  padding: 60px;
+}
 
 footer{
   padding: 16px;
@@ -221,27 +277,42 @@ display: inline-block;
   padding: 60px 50px 15px 50px;
   font-size: 20px;
 }
+
 .p02{
   font-size: 20px;
   padding: 0 50px 0 50px;
 }
-.p03{
+
+.p02 a{
+  color: #154899;
   font-size: 20px;
 }
+
+.p02 a:hover{
+  color: #9fa6c7;
+}
+
+.p03{
+  font-size: 20px;
+    padding: 0 50px 0 50px;
+}
+
 .p03 a{
   color: #154899;
   font-size: 20px;
-  padding: 0 50px 0 50px;
 }
+
 .p03 a:hover{
   color: #9fa6c7;
 }
 
+.p04{
+    padding: 0 50px 0 50px;
+}
 
 .p04 a{
   color: #154899;
   font-size: 20px;
-  padding: 0 50px 0 50px;
 }
 .p04 a:hover{
   color: #9fa6c7;
