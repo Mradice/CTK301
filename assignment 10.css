@@ -95,31 +95,31 @@ p{
 }
 
 .pink4{
-  padding: 0px 0 300px 580px;
+  padding: 0px 0 300px 480px;
   font-size: 20px;
 }
 .uck{
-  padding: 20px 0 300px 450px;
+  padding: 20px 0 300px 470px;
   font-size: 20px;
 }
 .arc6{
-  padding: 0px 0 280px 300px;
+  padding: 0px 0 280px 380px;
   font-size: 20px;
 }
 .skull5{
-  padding: 20px 0 300px 450px;
+  padding: 20px 0 300px 470px;
   font-size: 20px;
 }
 .abs3{
-  padding: 20px 0 300px 450px;
+  padding: 20px 0 300px 720px;
   font-size: 20px;
 }
 .com2{
-  padding: 0px 0 280px 45px;
+  padding: 0px 0 280px 680px;
   font-size: 20px;
 }
 .sp{
-  padding: 0px 0 300px 450px;
+  padding: 0px 0 300px 475px;
   font-size: 20px;
 }
 
@@ -128,7 +128,7 @@ p{
   border-radius: 5px;
   float: left;
   transition:transform 0.25s ease;
-  padding: 20px, 20px, 20px, 20px;
+  padding: 20px, 10px, 20px, 20px;
 }
 
 #pink:hover{
@@ -137,10 +137,10 @@ p{
 }
 
 #uck1{
-border-radius: 5px;
-float: left;
+  border-radius: 5px;
+  float: left;
  transition:transform 0.25s ease;
-   padding: 20px;
+   padding: 20px, 10px, 20px, 20px;
 }
 
 #uck1:hover{
@@ -149,10 +149,10 @@ float: left;
 }
 
 #arc{
-border-radius: 25px;
+border-radius: 5px;
 float: left;
 transition:transform 0.25s ease;
-padding: 20px;
+padding: 20px, 10px, 20px, 20px;
 }
 
 #arc:hover{
@@ -162,10 +162,10 @@ padding: 20px;
 
 #skull{
 
-border-radius: 25px;
+border-radius: 5px;
 float: left;
 transition:transform 0.25s ease;
-  padding: 20px;
+  padding: 20px, 10px, 20px, 20px;
 }
 
 #skull:hover{
@@ -175,10 +175,10 @@ transition:transform 0.25s ease;
 
 #abs{
 
-border-radius: 25px;
+border-radius: 5px;
 float: left;
 transition:transform 0.25s ease;
-  padding: 20px;
+  padding: 20px, 10px, 20px, 20px;
 }
 
 #abs:hover{
@@ -188,10 +188,10 @@ transition:transform 0.25s ease;
 
 #selfport{
 
-border-radius: 25px;
+border-radius: 5px;
 float: left;
 transition:transform 0.25s ease;
-  padding: 20px;
+  padding: 20px, 10px, 20px, 20px;
 }
 
 #selfport:hover{
@@ -201,10 +201,10 @@ transition:transform 0.25s ease;
 
 #com{
 
-border-radius: 25px;
+border-radius: 5px;
 float: left;
 transition:transform 0.25s ease;
-  padding: 20px;
+  padding: 20px, 10px, 20px, 20px;
 }
 
 #com:hover{
@@ -212,20 +212,28 @@ transition:transform 0.25s ease;
  transform:scale(1.5);
 }
 
+#picsnew{
+  padding-bottom: 45px;
+}
+
 #pics7{
   padding-top: 15px;
+  padding-bottom: 30px;
 }
 
 #pics6{
   padding-top: 150px;
+  padding-bottom: 25px;
 }
 
 #pics9{
-  padding-top: 30px;
+  padding-top: 25px;
+  padding-bottom: 10px;
 }
 
 #pics2{
-  padding-top: 150px;
+  padding-top: 20px;
+  padding-bottom: 50px;
 }
 
 
